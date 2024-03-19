@@ -1,0 +1,15 @@
+/* OrderList.module.css */
+
+body {
+    background-color: #f0f0f0;
+}
+
+table {
+    width: 600px;
+    margin-bottom: 100px;
+  }
+  
+.forTotalPrice {
+    font-weight: bold;
+    padding: 5px 25px 5px 0px;
+}
